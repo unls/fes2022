@@ -18,3 +18,5 @@ jobs:
         uses: chabad360/hugo-gh-pages@master
         with:
           githubToken: ${GITHUB_TOKEN}
+          branch: main
+          cname: fes.tclb.cf

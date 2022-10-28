@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Events on 技術科部文化祭特設サイト</title>
+    <link>https://fes.tclb.cf/event/</link>
+    <description>Recent content in Events on 技術科部文化祭特設サイト</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>jp</language><atom:link href="https://fes.tclb.cf/event/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Flight Simulator</title>
+      <link>https://fes.tclb.cf/event/flightsim/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fes.tclb.cf/event/flightsim/</guid>
+      <description>シミュレーターにはX-PLANE 11を使用していて、かなりリアルな体験をすることができます。</description>
+    </item>
+    
+    <item>
+      <title>Game</title>
+      <link>https://fes.tclb.cf/event/game/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fes.tclb.cf/event/game/</guid>
+      <description>技術科部員がScratch、Processing、アクションエディターなどを使用して制作したゲームを公開しています。</description>
+    </item>
+    
+    <item>
+      <title>Thermo Meter</title>
+      <link>https://fes.tclb.cf/event/thermo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fes.tclb.cf/event/thermo/</guid>
+      <description>Raspberry pi 4と赤外線センサー、カメラモジュールを使用した体温測定器です。 参考資料はこちら</description>
+    </item>
+    
+  </channel>
+</rss>

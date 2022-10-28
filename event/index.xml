@@ -25,15 +25,6 @@
     </item>
     
     <item>
-      <title>Thermo Meter</title>
-      <link>https://fes.tclb.cf/event/thermo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fes.tclb.cf/event/thermo/</guid>
-      <description>Raspberry pi 4と赤外線センサー、カメラモジュールを使用した体温測定器です。 参考資料はこちら</description>
-    </item>
-    
-    <item>
       <title>イベント | 文化祭キーワード</title>
       <link>https://fes.tclb.cf/event/mainevent/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

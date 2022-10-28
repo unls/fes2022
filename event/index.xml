@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>技術科部文化祭特設サイト</title>
-    <link>https://fes.tclb.cf/</link>
-    <description>Recent content on 技術科部文化祭特設サイト</description>
+    <title>Events on 技術科部文化祭特設サイト</title>
+    <link>https://fes.tclb.cf/event/</link>
+    <description>Recent content in Events on 技術科部文化祭特設サイト</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>jp</language><atom:link href="https://fes.tclb.cf/index.xml" rel="self" type="application/rss+xml" />
+    <language>jp</language><atom:link href="https://fes.tclb.cf/event/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Flight Simulator</title>
       <link>https://fes.tclb.cf/event/flightsim/</link>

@@ -4,9 +4,19 @@
   <url>
     <loc>https://fes.tclb.cf/categories/</loc>
   </url><url>
+    <loc>https://fes.tclb.cf/event/</loc>
+  </url><url>
+    <loc>https://fes.tclb.cf/event/flightsim/</loc>
+  </url><url>
+    <loc>https://fes.tclb.cf/event/game/</loc>
+  </url><url>
     <loc>https://fes.tclb.cf/tags/</loc>
   </url><url>
-    <loc>https://fes.tclb.cf/event/</loc>
+    <loc>https://fes.tclb.cf/event/test/</loc>
+  </url><url>
+    <loc>https://fes.tclb.cf/event/thermo/</loc>
+  </url><url>
+    <loc>https://fes.tclb.cf/event/mainevent/</loc>
   </url><url>
     <loc>https://fes.tclb.cf/</loc>
   </url>

@@ -7,39 +7,12 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>jp</language><atom:link href="https://fes.tclb.cf/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Flight Simulator</title>
-      <link>https://fes.tclb.cf/event/flightsim/</link>
+      <title>イベント | 文化祭キーワード</title>
+      <link>https://fes.tclb.cf/event/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fes.tclb.cf/event/flightsim/</guid>
-      <description>シミュレーターにはX-PLANE 11を使用していて、かなりリアルな体験をすることができます。</description>
-    </item>
-    
-    <item>
-      <title>Game</title>
-      <link>https://fes.tclb.cf/event/game/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fes.tclb.cf/event/game/</guid>
-      <description>技術科部員がScratch、Processing、アクションエディターなどを使用して制作したゲームを公開しています。</description>
-    </item>
-    
-    <item>
-      <title>TEST</title>
-      <link>https://fes.tclb.cf/event/test/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fes.tclb.cf/event/test/</guid>
-      <description>作者：とぴ。 概要 これは、楽しく悲しくなれるつまらないゲームです。 超絶たのしいのでやってみてね。 https://tclb.cf 仕組み あれがこうしてこうなって 思ったこと 最初</description>
-    </item>
-    
-    <item>
-      <title>Thermo Meter</title>
-      <link>https://fes.tclb.cf/event/thermo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fes.tclb.cf/event/thermo/</guid>
-      <description>Raspberry pi 4と赤外線センサー、カメラモジュールを使用した体温測定器です。 参考資料はこちら</description>
+      <guid>https://fes.tclb.cf/event/</guid>
+      <description>作：ぱんだ イベント キーワード ⑥の答えはee</description>
     </item>
     
   </channel>

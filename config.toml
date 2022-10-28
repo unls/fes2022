@@ -7,8 +7,6 @@ DefaultContentLanguage = "jp"
 enableInlineShortcodes = true
 theme = "festival"
 
-publishDir = "docs"
-
 hasCJKLanguage = true
 
 [menu]
